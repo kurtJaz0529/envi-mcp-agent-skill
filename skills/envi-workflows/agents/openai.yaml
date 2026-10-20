@@ -1,0 +1,4 @@
+interface:
+  display_name: "ENVI MCP Agent"
+  short_description: "在本机选择 ENVI MCP 接口、执行遥感任务并核验计算结果与实验截图证据"
+  default_prompt: "使用 $envi-workflows 检查本机 ENVI 接入，选择合适接口完成我的遥感任务，并说明验证结果。"
